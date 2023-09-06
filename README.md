@@ -1,2 +1,2 @@
 # HTML-Practice
-In this repository i make the login page and put all the necessary fields on this page.
+I made the login page in this repository and put all the necessary fields on this page.
